@@ -1,0 +1,18 @@
+{
+  "pattern": "Estilo 25-A.0",
+  "custom_pattern": "{PAG}.{FILA}-{COL}",
+  "rect_color": "Naranja",
+  "line_width": 7,
+  "line_style": "Discontinua",
+  "blink_speed": "Rápido",
+  "duration": 3,
+  "fill_style": "Sin relleno",
+  "animation_type": "Pulso",
+  "opacity": 100,
+  "fill_color": "Mismo que borde",
+  "corner_radius": 20,
+  "rect_margin": 0,
+  "effect": "Sombra suave",
+  "keep_original_name": false,
+  "disable_popups": true
+}
