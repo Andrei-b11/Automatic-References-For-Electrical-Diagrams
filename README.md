@@ -1,6 +1,3 @@
-# Automatic-References-For-Electrical-Diagrams
-Automatic References For Electrical Diagrams And Visual References
-
 # PDF Reference Detector
 
 A powerful Python application built with PyQt5 for detecting and converting electrical schematic references in PDF documents into interactive clickable links with JavaScript highlighting.
@@ -213,7 +210,14 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is open source and available for use and modification.
+This project is open source and available for personal use and modification. You are free to:
+- Modify the code for your personal needs
+- Use the software for personal, non-commercial purposes
+- Share modifications with others
+
+**Restrictions:**
+- This software may not be used for commercial purposes or to generate profit
+- No warranty is provided
 
 ## 🙏 Acknowledgments
 
